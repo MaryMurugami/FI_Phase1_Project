@@ -28,10 +28,11 @@ The steps taken to prepare the data for analysis were:
 
 ### Data Analysis
 
-![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true) 
+![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%202?raw=true) 
+The movie with the highest production budget was Avatar, interestingly it was also the highest grossing movie in the dataset.
 
 ![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true)
-
+- Six of the top 10 movies belonged to the Action,Adventure,Sci-Fi Genre.
 
 ## Conclusions 
 Based on the data analysis, the following conclusions can be drawn:
