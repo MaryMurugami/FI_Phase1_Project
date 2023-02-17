@@ -18,7 +18,7 @@ The data sources used the following data analysis project were:
 
 ## Methods
 The following methods to analyze the data:
-### Data Cleaning 
+### Data Cleaning and Preprocessing
 The steps taken to prepare the data for analysis were:
 - Merging the datasets; movie_budgets, tmdb and title_basics.
 - Dropping the columns that are redundant and not required for the analysis.
@@ -26,7 +26,8 @@ The steps taken to prepare the data for analysis were:
 - Checking for duplicated entries and dropping them.
 - Converting the production_budget, domestic_gross and worldwide_gross columns into numeric columns.
 
-### Data Analysis
+### Exploratory Data Analysis
+- There were several outlier in the data, however given that movies tend to gross in the billions of dollars, these outliers were ultimately not dropped from the dataset.
 
 ![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%202?raw=true) 
 The movie with the highest production budget was Avatar, interestingly it was also the highest grossing movie in the dataset.
