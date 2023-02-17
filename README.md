@@ -28,7 +28,10 @@ The steps taken to prepare the data for analysis were:
 
 ### Data Analysis
 
-[Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true)
+![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true) 
+
+![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%201?raw=true)
+
 
 ## Conclusions 
 Based on the data analysis, the following conclusions can be drawn:
