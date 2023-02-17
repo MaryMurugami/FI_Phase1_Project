@@ -27,7 +27,7 @@ The steps taken to prepare the data for analysis were:
 - Converting the production_budget, domestic_gross and worldwide_gross columns into numeric columns.
 
 ### Exploratory Data Analysis
-- There were several outlier in the data, however given that movies tend to gross in the billions of dollars, these outliers were ultimately not dropped from the dataset.
+- There were several outliers in the dataset, however given that movies tend to gross in the billions of dollars, these outliers were ultimately not dropped from the dataset.
 
 ![Top 10 movies by Production Budget](https://github.com/nyamskamau/FI_Phase1_Project/blob/main/image%202?raw=true) 
 The movie with the highest production budget was Avatar, interestingly it was also the highest grossing movie in the dataset.
