@@ -36,8 +36,8 @@ Based on the data analysis, the following conclusions can be drawn:
 - Movies in the Adventure Genre Outperformed movies in other Genres.
 - The Horror Genre grossed the highest amount in terms of both Domestic and Worldwide Gross. However it should be noted that the reason for this is due to the Avatar Movie, an outlier, which had significant success at the Box Office due to several reasons.
 
-
 Recommendations
 Based on the conclusions, the following recommendations can be offered:
 - Microsoft's movie studio should be willing to invest significant capital into their movies, the ten top grossing movies had an average Production Budget of 244560000.0.
-- Movies in the Action,Adventure,Sci-Fi Genre seem to perform overall very well. Microsoft should invested in these Genres.
+- Movies in the Action,Adventure,Sci-Fi Genre seem to perform overall very well. Microsoft should invest in movies within these Genres.
+
